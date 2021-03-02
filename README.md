@@ -5,13 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving CP skills
-- 🌱 I’m currently learning CP
-- 🤔 I’m looking for help with ML
-- 💬 Ask me about Py
-- 📫 How to reach me: 
-- https://www.instagram.com/deepmehar_kaur/
-- https://discord.com/users/darkarmy
+- 🔭 I’m currently working on - improving CP skills
+- 🌱 I’m currently learning - CP
+- 🤔 I’m looking for help with - ML
+- 💬 Ask me about - Py
+- 📫 How to reach me: - [Instagram](https://www.instagram.com/deepmehar_kaur/), [Discord](https://discord.com/users/darkarmy)
 - 😄 Pronouns: She/her 🌈 
 - 
 [![Mehar's github stats](https://github-readme-stats.vercel.app/api?username=mehardeep88&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
