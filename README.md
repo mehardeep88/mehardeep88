@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - improving CP skills
-- 🌱 I’m currently learning - CP
-- 🤔 I’m looking for help with - ML
-- 💬 Ask me about - Py
+- 🔭 I’m currently working on - frontend
+- 🌱 I’m currently learning - React
 - 📫 How to reach me: - [Instagram](https://www.instagram.com/deepmehar_kaur/), [Discord](https://discord.com/users/darkarmy)
 - 😄 Pronouns: She/her 
 - 
