@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on - frontend
 - 🌱 I’m currently learning - React
-- 📫 How to reach me: - [Instagram](https://www.instagram.com/deepmehar_kaur/), [Discord](https://discord.com/users/darkarmy)
 - 😄 Pronouns: She/her 
 - 
 [![Mehar's github stats](https://github-readme-stats.vercel.app/api?username=mehardeep88&count_private=true&show_icons=true&theme=radical,&hide_rank=false&title_color=radical&text_color=radical&bg_color=radical)](https://github.com/anuraghazra/github-readme-stats)
