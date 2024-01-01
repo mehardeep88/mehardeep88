@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - frontend
+- 🔭 I’m currently working on - full stack
 - 🌱 I’m currently learning - React
 - 😄 Pronouns: She/her 
 - 
